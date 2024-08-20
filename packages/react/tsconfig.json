@@ -1,0 +1,6 @@
+{
+  "extends": "@bankai/ts-config/react.json",
+  "include": [
+    "src"
+  ]  
+}
