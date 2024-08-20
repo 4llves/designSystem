@@ -1,7 +1,7 @@
 {
-  "name": "@bankai/tokens",
+  "name": "@bankai/react",
   "version": "1.0.0",
-  "description": "",
+  "description": "",  
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@bankai/tokens": "*",
     "tsup": "^8.2.4",
     "typescript": "^5.5.4"
   }
