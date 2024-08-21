@@ -1,3 +1,3 @@
-import { colors } from "@bankai/tokens";
+import { colors } from '@bankai/tokens'
 
 console.log(colors)
