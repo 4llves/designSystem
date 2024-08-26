@@ -3,14 +3,16 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {    
-    "dev": "storybook dev -p 6006",    
+  "scripts": {
+    "dev": "storybook dev -p 6006",
     "build": "storybook build"
   },
   "dependencies": {
+    "@bankai/eslint-config": "*",
+    "@bankai/ts-config": "*",
     "@bankai/react": "*",
     "@bankai/tokens": "*",
-    "@bankai/eslint-config": "*",
+    "polished": "^4.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -37,5 +39,5 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
-  }  
+  }
 }
