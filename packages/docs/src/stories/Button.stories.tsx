@@ -2,7 +2,7 @@ import { Button, ButtonProps } from '@bankai/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {
-  title: 'Button',
+  title: 'Form/Button',
   component: Button,
 
   args: {
