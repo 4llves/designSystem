@@ -3,6 +3,15 @@
   "tasks": {
     "dev": {
       "cache": false
-    }    
+    },
+    "build": {
+      "outputs": [
+        "dist/**",
+        "storybook-static/**"
+      ],
+      "dependsOn": [
+        "^build"
+      ]
+    }
   }
 }

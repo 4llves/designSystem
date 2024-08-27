@@ -1,12 +1,15 @@
 {
+  "name": "bankai-ui",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "scripts": {
-    "dev": "turbo run dev --parallel"    
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
   },
   "devDependencies": {
     "turbo": "^2.1.0"
-  }
+  },
+  "packageManager": "npm@10.1.0"
 }
