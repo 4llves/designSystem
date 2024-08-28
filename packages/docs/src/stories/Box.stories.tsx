@@ -1,4 +1,4 @@
-import { Box, BoxProps } from '@bankai/react'
+import { Box, BoxProps, Text } from '@bankai/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {
@@ -8,7 +8,7 @@ export default {
   args: {
     children: (
       <>
-        <span>Testing Box Element</span>
+        <Text>Testing Box Element</Text>
       </>
     )
   },
