@@ -1,8 +1,9 @@
 import type { Preview } from "@storybook/react";
 import { themes } from '@storybook/theming';
 
-const preview: Preview = {
+const preview: Preview = {  
   parameters: {
+    tags: ['autodocs'],
     backgrounds: {
       default: 'dark'
     },
