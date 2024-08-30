@@ -7,7 +7,6 @@ export const AvatarContainer = styled(Avatar.Root, {
   width: '$12',
   height: '$12',
   overflow: 'hidden',
-  // transform: 'translateZ(0)',
 })
 
 export const AvatarImage = styled(Avatar.Image, {
@@ -15,7 +14,6 @@ export const AvatarImage = styled(Avatar.Image, {
   height: '100%',
   objectFit: 'cover',
   borderRadius: 'inherit',
-  // objectPosition: 'center',
 })
 
 export const AvatarFallback = styled(Avatar.Fallback, {
