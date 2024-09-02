@@ -12,7 +12,7 @@ export default {
   argTypes: {
     children: {
       control: {
-        type: 'text'        
+        type: 'text'
       }
     }
   }
