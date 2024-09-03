@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@bankai/react'
+import { Text, TextProps } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

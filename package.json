@@ -1,14 +1,18 @@
 {
-  "name": "bankai-ui",
+  "name": "benihime",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filter=@benihime/docs && changeset publish"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.27.7",
     "turbo": "^2.1.0"
   },
   "packageManager": "npm@10.1.0",

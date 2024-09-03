@@ -1,4 +1,4 @@
-import { Box, Checkbox, CheckboxProps, Text } from '@bankai/react'
+import { Box, Checkbox, CheckboxProps, Text } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

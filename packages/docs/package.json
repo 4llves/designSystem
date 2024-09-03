@@ -1,5 +1,5 @@
 {
-  "name": "@bankai/docs",
+  "name": "@benihime/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,10 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@bankai/eslint-config": "*",
-    "@bankai/react": "*",
-    "@bankai/tokens": "*",
-    "@bankai/ts-config": "*",
+    "@benihime/eslint-config": "*",
+    "@benihime/react": "*",
+    "@benihime/tokens": "*",
+    "@benihime/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
     "react": "^18.3.1",

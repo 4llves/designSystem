@@ -1,4 +1,4 @@
-import { Box, BoxProps, Text } from '@bankai/react'
+import { Box, BoxProps, Text } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

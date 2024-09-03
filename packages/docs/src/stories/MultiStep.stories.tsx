@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@bankai/react'
+import { Box, MultiStep, MultiStepProps } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

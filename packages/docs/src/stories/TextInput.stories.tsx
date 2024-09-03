@@ -1,4 +1,4 @@
-import { Box, Text, TextInput, TextInputProps } from '@bankai/react'
+import { Box, Text, TextInput, TextInputProps } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

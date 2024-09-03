@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from '@bankai/react'
+import { Box, Text, TextArea, TextAreaProps } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from '@bankai/react'
+import { Avatar, AvatarProps } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

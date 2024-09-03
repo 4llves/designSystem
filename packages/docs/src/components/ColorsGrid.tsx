@@ -1,4 +1,4 @@
-import { colors } from "@bankai/tokens";
+import { colors } from "@benihime/tokens";
 import { getContrast } from 'polished';
 
 export function ColorsGrid() {

@@ -1,5 +1,5 @@
 {
-  "name": "@bankai/tokens",
+  "name": "@benihime/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@bankai/ts-config": "*",
-    "@bankai/eslint-config": "*",
+    "@benihime/ts-config": "*",
+    "@benihime/eslint-config": "*",
     "tsup": "^8.2.4",
     "typescript": "^5.5.4"
   }

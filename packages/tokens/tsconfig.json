@@ -1,5 +1,5 @@
 {
-  "extends": "@bankai/ts-config/base.json",
+  "extends": "@benihime/ts-config/base.json",
   "include": [
     "src"
   ]  

@@ -1,4 +1,4 @@
-import { Button, ButtonProps } from '@bankai/react'
+import { Button, ButtonProps } from '@benihime/react'
 import type { Meta, StoryObj } from '@storybook/react'
 import { ArrowRight } from 'phosphor-react'
 

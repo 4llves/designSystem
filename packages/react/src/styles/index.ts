@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@bankai/tokens'
+} from '@benihime/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
