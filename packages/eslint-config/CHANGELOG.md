@@ -1,5 +1,11 @@
 # @benihime/eslint-config
 
+## 3.0.1
+
+### Patch Changes
+
+- fix name package lock
+
 ## 3.0.0
 
 ### Major Changes
